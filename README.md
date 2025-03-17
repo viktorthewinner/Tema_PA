@@ -1,3 +1,6 @@
+Scopul acestui proiect: Invatarea structurilor de tip lista si operarea cu pointeri, crearea de biblioteci si algoritmi uzuali in folosirea arborilor.
+
+
 /// 2 stelute inseamna ca schimb informatii in lista (adaug/sterg)
 void readTeams(FILE *fisier, int nr, echipa **head);
     citesc si aloc echipele, la fel si jucatorii
